@@ -1,9 +1,19 @@
 body {
     background-color: #c6c6c6;
+    margin: 0;
+    padding-right: 20px;
+    padding-right: 20px;
 }
 
-h1 {}
+h1 {
+    color: darkred;
 
-h2 {}
+}
 
-p {}
+h2 {
+    color: yellow;
+}
+
+p {
+    color: pink;
+}
